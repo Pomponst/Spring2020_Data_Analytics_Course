@@ -1,21 +1,5 @@
 # Spring2020_Data-Analytics-Course
 A collection of assignments I completed for my graduate level data analytics course
 
-Each assignment/examination is broken up into a separate branch.
-
-Included in each branch is:
-* A README file outlining the assignment
-* Datasets needed to complete each assignment
-* R files comprised of code written answering assignemnt questions
-
-Assignment List:
-* **Feb. 14, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W5U2>W5U2</a>
-* **Feb. 20, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W6U2>W6U2</a>
-* **Feb. 28, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/Midterm>Midterm</a>
-* **Mar. 13, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W8U1>W8U1</a>
-* **Mar. 19, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W9U2>W9U2</a>
-* **Mar. 27, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W10U2>W10U2</a>
-* **Apr. 11, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W12U1>W12U1</a>
-* **Apr. 17, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W13U1>W13U1</a>
-* **Apr. 25, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/W14U1>W14U1</a>
-* **May. 8, 2020**: <a href = https://github.com/Pomponst/Spring2020_Data_Analytics_Course/tree/Final>Final</a>
+**Course Description**<br>
+Business decision-making should, when possible, rely on data and the conclusions that can be drawn from that data. This course is an introduction to business data analytics; it covers descriptive statistics, data visualization, probability basics, and quantifying relationships between two or more variables using linear regression. One focus is on learning and contrasting traditional statistical approaches (inference) and “big data” approaches for analysis. The course will involve practical examples, and real-world data sets. Much of the class will entail the use of Excel, as spreadsheet software is arguably the most commonly available and most frequently used tool for analyzing business data. We will equally be using R – a popular, open-source, statistical package. R is a more powerful approach than Excel, is one of the most commonly used statistical languages/packages.
