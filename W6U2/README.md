@@ -11,7 +11,7 @@ Revisit the airlines data (flights218) from the last assignment. The column ARR_
 I’m sure you’re familiar with the story of the Titanic. The file **titanic3.csv** contains information on 1,309 Titanic passengers.<br>
 Here’s a description of the data.
 |Variable|Description|
-|----------|-------------|
+|--------|-----------|
 |pclass|Passenger Class|
 |survived|Survival (0=No, 1=Yes)|
 |sex|Sex (0=Male, 1=Female)|
